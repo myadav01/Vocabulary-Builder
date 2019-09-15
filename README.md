@@ -3,12 +3,25 @@ This repository contains information about the application, including the user m
 
 ##English GSCE Vocabulary Builder Desktop Application
 
-###**Installation** 
+###Installation
 
 Prerequisitives: Please make sure that you have JDK 11 installed on your computer 
 and that it is added to your class-path list in your Environment Variables. 
+There are different ways to do this, but the following is recommended as it is easier and straightforward. 
 
-###**Log in** 
+1) Go to https://ninite.com/
+2) Select JDK (AdoptOpenJDK) 64 bit 11.0.4 under 'Developer Tools': 
+![Image of Yaktocat](/images/jdk_ninite.jpg)
+3) Press 'Get Your Ninite' at the bottom of the screen. 
+4) Select 'Save file' when the downloader pop-up appears.
+5) Run the file. Ninite will download and install the JDK for you.
+6) To test that installation was successful, open 'Command Prompt' and enter 'java -version'. The following message should be displayed: 
+>openjdk version "11.0.4" 2019-07-16
+>OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.4+11)
+>OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.4+11, mixed mode)
+
+
+###Log in
 
 The first screen when you open the application will always be the log in screen. Here, either create a new user 
 account or choose an existing user account from the drop down menu. When creating your own user account, the following
@@ -17,7 +30,7 @@ criteria must be met:
 a 'John Smith' are fine.
 * You must not enter a blank or a space as an entry. 
 
-###**Starting off** 
+###Starting off 
 
 Once you have logged in, you should see your name displayed at the top. 
 If nothing is displayed under 'current unit', you will need to select a unit to learn. To do this, click on 'Select unit' 
