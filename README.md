@@ -5,7 +5,7 @@ This repository contains information about the application, including the user m
 
 ### Installation
 
-Prerequisitives: Please make sure that you have JDK 11 installed on your computer 
+Before running the application, please make sure that you have JDK 11 installed on your computer 
 and that it is added to your class-path list in your Environment Variables. 
 There are different ways to do this, but the following is recommended as it is easier and straightforward. 
 
