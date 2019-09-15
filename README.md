@@ -16,10 +16,11 @@ There are different ways to do this, but the following is recommended as it is e
 4) Select 'Save file' when the downloader pop-up appears.
 5) Run the file. Ninite will download and install the JDK for you.
 6) To test that installation was successful, open 'Command Prompt' and enter 'java -version'. The following message should be displayed: 
->openjdk version "11.0.4" 2019-07-16
->OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.4+11)
->OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.4+11, mixed mode)
-
+````
+openjdk version "11.0.4" 2019-07-16
+OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.4+11)
+OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.4+11, mixed mode)
+````
 
 ### Log in
 
@@ -47,25 +48,25 @@ Although you can choose any of the activities to begin with, we recommend perfor
 ### FAQs
 
 1. How do I change difficulty? 
-````
+
 There are three difficulty levels: easy, medium and hard. By default, the first difficulty level assigned is 'easy'. To          change the difficulty level, you need to get an average score of 75% or more in Definitions and Usage tests. 
-````
+
 2. How do the tests work? 
-````
+
 There are two types of tests: definitions and usage. Definitions tests are worth 30% of the overall score. Usage tests are worth 70% of the overall score.
 You get a point for each correct answer. You lose a point for each wrong answer. The minimum you can score is 0 (no negative marks).
-````
+
 3. How do I report a bug? 
-````
+
 The developers apologise for any hinderance to your learning experience. To report a bug, please write us an email on:
 gcsevocabularybuilder@gmail.com
 Please prefix the subject with 'BUG'. E.g. 'BUG: Application doesn't connect to server'. In the email, please include a description of the bug: what happens (or doesn't happen); which window is open; what triggers the bug, if known.
-````
+
 4. How do I make recommendations or suggestions? 
-````
+
 We welcome any suggestions. Please email us on:
 gcsevocabularybuilder@gmail.com, prefixing the subject with 'SUGGESTION'. E.g. 'SUGGESTION: Add xyz functionality'. In the email body, please include the description of the suggestion and why you think the application would benefit from the suggestion. 
-````
+
 
 ### Contact Us 
 
