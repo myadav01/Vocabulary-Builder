@@ -26,17 +26,47 @@ There are different ways to do this, but the following is recommended as it is e
 The first screen when you open the application will always be the log in screen. Here, either create a new user 
 account or choose an existing user account from the drop down menu. When creating your own user account, the following
 criteria must be met: 
+![log in](images/log-in.png)
+
 * The first name and last name combined should be unique. E.g. two 'John Smith's are not allowed, but a 'John Adams'
 a 'John Smith' are fine.
 * You must not enter a blank or a space as an entry. 
 
-### Starting off 
+### Getting started
 
-Once you have logged in, you should see your name displayed at the top. 
-If nothing is displayed under 'current unit', you will need to select a unit to learn. To do this, click on 'Select unit' 
-button on the left navigation pane. This should take you to a page with a drop-down menu. Select one of the units from
-the list in the drop down menu, and press 'Go'. Your newly selected unit, along with your attainment and difficulty 
-level in that unit should now appear in the top tool-bar. 
+If you are logging in as a new user, you will need to select 'Change unit' on the navigation pane to select a unit to study:
+![unit image](images/change-unit.png)
+
+Press 'Go' once you have made a selection. 
+
+Your newly selected unit, along with your attainment and difficulty level in that unit should now appear in the top tool-bar. By default, the difficulty level 'easy' is assigned to your study session.
 
 Once a unit has been selected, other activity buttons 'Learn', 'Revise', 'Test Me' should now be activated. 
 Although you can choose any of the activities to begin with, we recommend performing them in order: Learn, Revise, Test Me. 
+
+### FAQs
+
+1. How do I change difficulty? 
+````
+There are three difficulty levels: easy, medium and hard. By default, the first difficulty level assigned is 'easy'. To          change the difficulty level, you need to get an average score of 75% or more in Definitions and Usage tests. 
+````
+2. How do the tests work? 
+````
+There are two types of tests: definitions and usage. Definitions tests are worth 30% of the overall score. Usage tests are worth 70% of the overall score.
+You get a point for each correct answer. You lose a point for each wrong answer. The minimum you can score is 0 (no negative marks).
+````
+3. How do I report a bug? 
+````
+The developers apologise for any hinderance to your learning experience. To report a bug, please write us an email on:
+gcsevocabularybuilder@gmail.com
+Please prefix the subject with 'BUG'. E.g. 'BUG: Application doesn't connect to server'. In the email, please include a description of the bug: what happens (or doesn't happen); which window is open; what triggers the bug, if known.
+````
+4. How do I make recommendations or suggestions? 
+````
+We welcome any suggestions. Please email us on:
+gcsevocabularybuilder@gmail.com, prefixing the subject with 'SUGGESTION'. E.g. 'SUGGESTION: Add xyz functionality'. In the email body, please include the description of the suggestion and why you think the application would benefit from the suggestion. 
+````
+
+### Contact Us 
+
+You can reach us via the email (gcsevocabularybuilder@gmail.com). 
