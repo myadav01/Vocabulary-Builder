@@ -11,7 +11,7 @@ There are different ways to do this, but the following is recommended as it is e
 
 1) Go to https://ninite.com/
 2) Select JDK (AdoptOpenJDK) 64 bit 11.0.4 under 'Developer Tools': 
-![JDK image](Vocabulary-Builder/images/jdk_ninite.jpg)
+![JDK image](images/jdk_ninite.png)
 3) Press 'Get Your Ninite' at the bottom of the screen. 
 4) Select 'Save file' when the downloader pop-up appears.
 5) Run the file. Ninite will download and install the JDK for you.
