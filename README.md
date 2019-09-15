@@ -25,9 +25,11 @@ OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.4+11, mixed mode)
 ### Log in
 
 The first screen when you open the application will always be the log in screen. Here, either create a new user 
-account or choose an existing user account from the drop down menu. When creating your own user account, the following
-criteria must be met: 
+account or choose an existing user account from the drop down menu: 
 ![log in](images/log-in.PNG)
+
+When creating your own user account, the following
+criteria must be met: 
 
 * The first name and last name combined should be unique. E.g. two 'John Smith's are not allowed, but a 'John Adams'
 a 'John Smith' are fine.
