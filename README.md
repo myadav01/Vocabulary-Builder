@@ -27,7 +27,7 @@ OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.4+11, mixed mode)
 The first screen when you open the application will always be the log in screen. Here, either create a new user 
 account or choose an existing user account from the drop down menu. When creating your own user account, the following
 criteria must be met: 
-![log in](images/log-in.png)
+![log in](images/log-in.PNG)
 
 * The first name and last name combined should be unique. E.g. two 'John Smith's are not allowed, but a 'John Adams'
 a 'John Smith' are fine.
@@ -36,7 +36,7 @@ a 'John Smith' are fine.
 ### Getting started
 
 If you are logging in as a new user, you will need to select 'Change unit' on the navigation pane to select a unit to study:
-![unit image](images/change-unit.png)
+![unit image](images/change-unit.PNG)
 
 Press 'Go' once you have made a selection. 
 
@@ -47,22 +47,22 @@ Although you can choose any of the activities to begin with, we recommend perfor
 
 ### FAQs
 
-1. How do I change difficulty? 
+#### 1. How do I change difficulty? 
 
 There are three difficulty levels: easy, medium and hard. By default, the first difficulty level assigned is 'easy'. To          change the difficulty level, you need to get an average score of 75% or more in Definitions and Usage tests. 
 
-2. How do the tests work? 
+#### 2. How do the tests work? 
 
 There are two types of tests: definitions and usage. Definitions tests are worth 30% of the overall score. Usage tests are worth 70% of the overall score.
 You get a point for each correct answer. You lose a point for each wrong answer. The minimum you can score is 0 (no negative marks).
 
-3. How do I report a bug? 
+#### 3. How do I report a bug? 
 
 The developers apologise for any hinderance to your learning experience. To report a bug, please write us an email on:
 gcsevocabularybuilder@gmail.com
 Please prefix the subject with 'BUG'. E.g. 'BUG: Application doesn't connect to server'. In the email, please include a description of the bug: what happens (or doesn't happen); which window is open; what triggers the bug, if known.
 
-4. How do I make recommendations or suggestions? 
+#### 4. How do I make recommendations or suggestions? 
 
 We welcome any suggestions. Please email us on:
 gcsevocabularybuilder@gmail.com, prefixing the subject with 'SUGGESTION'. E.g. 'SUGGESTION: Add xyz functionality'. In the email body, please include the description of the suggestion and why you think the application would benefit from the suggestion. 
