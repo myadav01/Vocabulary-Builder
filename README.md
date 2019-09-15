@@ -1,9 +1,9 @@
 # Vocabulary-Builder
 This repository contains information about the application, including the user manual and FAQs.
 
-##English GSCE Vocabulary Builder Desktop Application
+## English GSCE Vocabulary Builder Desktop Application
 
-###Installation
+### Installation
 
 Prerequisitives: Please make sure that you have JDK 11 installed on your computer 
 and that it is added to your class-path list in your Environment Variables. 
@@ -21,7 +21,7 @@ There are different ways to do this, but the following is recommended as it is e
 >OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.4+11, mixed mode)
 
 
-###Log in
+### Log in
 
 The first screen when you open the application will always be the log in screen. Here, either create a new user 
 account or choose an existing user account from the drop down menu. When creating your own user account, the following
@@ -30,7 +30,7 @@ criteria must be met:
 a 'John Smith' are fine.
 * You must not enter a blank or a space as an entry. 
 
-###Starting off 
+### Starting off 
 
 Once you have logged in, you should see your name displayed at the top. 
 If nothing is displayed under 'current unit', you will need to select a unit to learn. To do this, click on 'Select unit' 
