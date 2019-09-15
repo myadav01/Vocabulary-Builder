@@ -3,10 +3,10 @@ This repository contains information about the application, including the user m
 
 ## Contents 
 1. [Installation](https://github.com/myadav01/Vocabulary-Builder/blob/master/README.md#installation) 
-2. [Log in](https://github.com/myadav01/Vocabulary-Builder/blob/master/README.md#log in) 
-3. [Getting Started](https://github.com/myadav01/Vocabulary-Builder/blob/master/README.md#getting started) 
+2. [Log in](https://github.com/myadav01/Vocabulary-Builder/blob/master/README.md#log) 
+3. [Getting Started](https://github.com/myadav01/Vocabulary-Builder/blob/master/README.md#getting) 
 4. [FAQs](https://github.com/myadav01/Vocabulary-Builder/blob/master/README.md#faqs) 
-5. [Contact Us](https://github.com/myadav01/Vocabulary-Builder/blob/master/README.md#contact us) 
+5. [Contact Us](https://github.com/myadav01/Vocabulary-Builder/blob/master/README.md#contact) 
 
 ## English GSCE Vocabulary Builder Desktop Application
 
