@@ -1,6 +1,13 @@
 # Vocabulary-Builder
 This repository contains information about the application, including the user manual and FAQs.
 
+## Contents 
+1. [Installation](https://github.com/myadav01/Vocabulary-Builder/blob/master/README.md#installation) 
+2. Log in
+3. Getting Started
+4. FAQs
+5. Contact Us
+
 ## English GSCE Vocabulary Builder Desktop Application
 
 ### Installation
